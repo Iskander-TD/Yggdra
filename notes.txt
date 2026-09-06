@@ -1,0 +1,21 @@
+Examples: Linksicon, Pokémon Tree of Life, Phylogenetic trees, PCA Point Space, Space Engine
+
+Requirements
+1. 3D to 2D conversion
+2. Manual Connection only
+4. Custom node (Data tags within node entities)
+  - Right click to get info
+5. Click and drag nodes from cataloge
+6. Catalogue of searchable nodes (pokemon)
+7. Default settings (view) (X, Y, Z cords)
+
+
+Goal
+- Map all pokemon from data bank with categorical connections between nodes
+- Family tree of evolutions (phylogenetic tree)
+
+Debugging
+1. Node Overlap
+2. Multiple connections error (field depth view)
+3. Save States (JSON?)
+
